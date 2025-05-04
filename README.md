@@ -38,7 +38,7 @@ All interfaces were designed in **Figma**, focusing on simplicity, clarity, and 
 
 ## 🏆 Achievement
 
-Naqwah was awarded **First Place** in the Graduation Project Exhibition at the College of Computer and Information Sciences, Princess Nourah University.
+Naqwah was awarded **First Place** in the Graduation Project Exhibition at the College of Computer and Information Sciences, Imam muhammad ibn saud islamic university.
 
 
 
@@ -86,7 +86,7 @@ Naqwah was awarded **First Place** in the Graduation Project Exhibition at the C
 
 ## 🏆 الإنجاز
 
-فاز مشروع "نقوة" بـ **المركز الأول** في معرض مشاريع التخرج لكلية علوم الحاسب والمعلومات، جامعة الأميرة نورة.
+فاز مشروع "نقوة" بـ **المركز الأول** في معرض مشاريع التخرج لكلية علوم الحاسب والمعلومات، جامعة الأمام محمد بن سعود الاسلامية.
 
 ---
 
