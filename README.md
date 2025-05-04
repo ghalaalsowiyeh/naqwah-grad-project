@@ -14,7 +14,7 @@ The image below shows the overall UI design for the Naqwah application, includin
 All interfaces were designed in **Figma**, focusing on simplicity, clarity, and usability:
 
 ![Naqwah UI Overview]("https://github.com/ghalaalsowiyeh/naqwah-grad-project/blob/main/Screenshot%202025-05-04%20123843.png")
-![Naqwah UI Overview]("C:\Users\Ghala\Desktop\نقوة\واجهات\Screenshot 2025-05-04 123853.png")
+![Naqwah UI Overview]("https://github.com/ghalaalsowiyeh/naqwah-grad-project/blob/main/Screenshot%202025-05-04%20123853.png")
 
 ---
 
@@ -57,8 +57,9 @@ Naqwah was awarded **First Place** in the Graduation Project Exhibition at the C
 توضح الصورة التالية التصميم العام لتطبيق "نقوة"، وتشمل الشاشات الرئيسية مثل: الشاشة الترحيبية، تسجيل الدخول، تحليل العينة، وعرض نتائج التقييم.  
 تم تصميم الواجهات باستخدام Figma مع التركيز على البساطة، الوضوح، وسهولة الاستخدام:
 
-![Naqwah UI Overview]("C:\Users\Ghala\Desktop\نقوة\واجهات\Screenshot 2025-05-04 123843.png")
-![Naqwah UI Overview]("C:\Users\Ghala\Desktop\نقوة\واجهات\Screenshot 2025-05-04 123853.png")
+
+![Naqwah UI Overview]("https://github.com/ghalaalsowiyeh/naqwah-grad-project/blob/main/Screenshot%202025-05-04%20123843.png")
+![Naqwah UI Overview]("https://github.com/ghalaalsowiyeh/naqwah-grad-project/blob/main/Screenshot%202025-05-04%20123853.png")
 
 ---
 
