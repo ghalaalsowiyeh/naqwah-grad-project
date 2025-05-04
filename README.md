@@ -41,6 +41,10 @@ All interfaces were designed in **Figma**, focusing on simplicity, clarity, and 
 Naqwah was awarded **First Place** in the Graduation Project Exhibition at the College of Computer and Information Sciences, Princess Nourah University.
 
 
+
+
+
+
 # نقوة - تطبيق تقييم جودة حبوب القهوة باستخدام الذكاء الاصطناعي ☕️  
 
 ---
